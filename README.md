@@ -1,12 +1,12 @@
-# 📊 Índices e Procedures em Banco de Dados
+# Índices e Procedures em Banco de Dados
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 Projeto prático focado na criação de índices e procedures em banco de dados
 relacional, com o objetivo de otimizar consultas e manipular dados de forma controlada.
 
 ---
 
-## 🧩 Parte 1 – Criação de Índices
+## Parte 1 – Criação de Índices
 
 Os índices foram criados com base nas consultas mais frequentes e relevantes
 do cenário de empresa (company).
@@ -21,7 +21,7 @@ filtros e relacionamentos.
 
 ---
 
-## 🧩 Parte 2 – Procedures
+## Parte 2 – Procedures
 
 Foram criadas procedures com estrutura condicional para executar
 operações de inserção, atualização, remoção e consulta de dados,
